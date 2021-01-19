@@ -10,7 +10,7 @@
 🌱 I’m currently learning
   - Javascript
   - Node JS
-  - React JS
+  - React JS & Vue JS
   - PHP
 
 <!--
