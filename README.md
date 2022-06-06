@@ -16,8 +16,6 @@
   - Express Js
   - React Js
   - Vue Js
-  - PHP
-  - Laravel
 
 <!--
 **rofiqurrohman/rofiqurrohman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
