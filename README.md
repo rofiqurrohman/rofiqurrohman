@@ -1,33 +1,19 @@
-## Hey 👋, I'm Rofiqur Rohman
-[![Gmail Badge](https://img.shields.io/badge/-rofiqurrohman93@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rofiqurrohman93@gmail.com)](mailto:rofiqurrohman93@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-rofiqurrohman-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rofiqurrohman/)](https://www.linkedin.com/in/rofiqurrohman/) [![Github Badge](https://img.shields.io/badge/-rofiqurrohman-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rofiqurrohman/)](https://www.github.com/rofiqurrohman/) [![Twitter Badge](https://img.shields.io/badge/-rofiqurrohmn-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rofiqurrohmn/)](https://www.twitter.com/rofiqurrohmn/) 
-<!-- [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=rofiqurrohman.github.io/)](rofiqurrohman.github.io/)-->
-<p align='left'>Saya senang belajar Programming</p>
+# 💫 About Me:
+i'm currently working in web development
 
-<!-- ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=rofiqurrohman alt=rofiqurrohman /> </p> -->
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=rofiqurrohman&show_icons=true&include_all_commits=true)](https://github.com/rofiqurrohman/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofiqurrohman&layout=compact)](https://github.com/rofiqurrohman/github-readme-stats)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rofiqurrohmn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rofiqurrohman) 
 
-🌱 I’m currently learning
-  - Javascript
-  - Node Js
-  - Express Js
-  - React Js
-  - Vue Js
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) [Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=flat&logo=quasar&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rofiqurrohman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rofiqurrohman&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rofiqurrohman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--
-**rofiqurrohman/rofiqurrohman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rofiqurrohman) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rofiqurrohman) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
